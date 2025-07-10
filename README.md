@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ruben! aka inev1tableR
+# 👋 Hi, I'm Ruben!
 
 I'm a cybersecurity enthusiast transitioning from network and systems administration into penetration testing and red teaming.
 
