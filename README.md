@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruben!
 
-<!--
-**inev1tableR/inev1tableR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast transitioning from network and systems administration into penetration testing and red teaming.
 
-Here are some ideas to get you started:
+## 🛠️ Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hack The Box boxes (Mr. Robot, Meow, Sequel, etc.)
+- Preparing for the [eJPT](https://ine.com/certifications/ejpt) certification
+- Building a home lab with Kali Linux, VMware, and internal CTFs
+
+## 📁 Walkthroughs & Projects (coming soon)
+
+
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/rubenesparzagutierrez/)
