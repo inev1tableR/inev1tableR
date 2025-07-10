@@ -4,7 +4,7 @@ I'm a cybersecurity enthusiast transitioning from network and systems administra
 
 ## 💼 Background
 
-- 10+ years in IT (SysAdmin, Network Admin, App Engineer)
+- 10+ years in IT (SysAdmin, Network Admin, App Engineer, customer facing support roles)
 - Cybersecurity Bootcamp (UCSD, 2020)
 - Now building toward eJPT, OSCP, and red team roles
 
