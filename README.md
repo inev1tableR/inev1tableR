@@ -17,7 +17,7 @@ I'm a cybersecurity enthusiast transitioning from network and systems administra
 
 ## 📁 Walkthroughs & Projects (coming soon)
 
-- [HTB – Mr. Robot](https://github.com/inev1tableR/HTB-MrRobot)
+- [Vulnhub – Mr. Robot](https://github.com/inev1tableR/HTB-MrRobot)
 - [HTB – Fawn](https://github.com/inev1tableR/HTB-Fawn)
 - [Kali Setup Notes](https://github.com/inev1tableR/Kali-Setup-Notes)
 
